@@ -1,7 +1,7 @@
 # Hiii, I'm Mustafa 👋
 
 🧠 Computer Science student at TMU<br/>
-🔬 Passionate about high-performance, scalable systems and learning how systems work under the hood<br/>
+🔬 Passionate about high-performance, scalable systems and learning how they work under the hood<br/>
 🏗️ Currently working on Crediscore - A credit assessment web app<br/>
 📧 Reach me via email <a href="mailto:mustafaelzowawi@gmail.com">here</a><br/>
 
