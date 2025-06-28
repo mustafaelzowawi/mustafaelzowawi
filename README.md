@@ -1,4 +1,4 @@
-# Hiii, I'm Mustafa 👋
+# Hi, I'm Mustafa 👋
 
 🧠 Computer Science student at TMU<br/>
 🔬 Passionate about high-performance, scalable systems and learning how they work under the hood<br/>
